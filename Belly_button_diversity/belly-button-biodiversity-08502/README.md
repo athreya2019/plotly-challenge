@@ -5,7 +5,7 @@ analysis. Technologies used: HTML/CSS/Bootstrap, JavaScript Library Plotly, Pyth
 
 https://warm-hamlet-16561.herokuapp.com/
 
-![BellyButtonBiodiversityDashboard]()
+![BellyButtonBiodiversityDashboard](https://github.com/athreya2019/plotly-challenge/blob/master/Belly_button_diversity/belly-button-biodiversity-08502/BellyButtonBiodiversityDashboard.PNG)
 
 
 
